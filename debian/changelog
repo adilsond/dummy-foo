@@ -1,0 +1,5 @@
+dummy-foo (0.001-1) trusty; urgency=medium
+
+  * Initial release. 
+
+ -- Adilson dos Santos Dantas <adilson@digirati.com.br>  Fri, 29 May 2015 15:00:10 -0300

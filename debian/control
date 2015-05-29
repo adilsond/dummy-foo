@@ -1,0 +1,12 @@
+Source: dummy-foo
+Maintainer: Adilson dos Santos Dantas <adilson@digirati.com.br>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9)
+
+Package: dummy-foo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: foo
+ fooooooooooooooooo
