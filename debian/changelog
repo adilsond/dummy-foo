@@ -1,3 +1,9 @@
+dummy-foo (0.005-1) UNRELEASED; urgency=medium
+
+  * Small fix and and copyright notice at dummy-foo.c
+
+ -- Adilson dos Santos Dantas <adilson@digirati.com.br>  Mon, 01 Jun 2015 16:28:55 -0300
+
 dummy-foo (0.004-1) trusty; urgency=medium
 
   * You don't say?
