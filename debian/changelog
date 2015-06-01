@@ -1,4 +1,4 @@
-dummy-foo (0.005-1) UNRELEASED; urgency=medium
+dummy-foo (0.005-1) trusty; urgency=medium
 
   * Small fix and and copyright notice at dummy-foo.c
 
