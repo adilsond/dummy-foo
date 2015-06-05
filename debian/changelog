@@ -1,3 +1,9 @@
+dummy-foo (0.009-1) trusty; urgency=medium
+
+  * Mais testes
+
+ -- Adilson dos Santos Dantas <adilson@digirati.com.br>  Fri, 05 Jun 2015 15:15:30 -0300
+
 dummy-foo (0.008-1) trusty; urgency=medium
 
   * Tux
