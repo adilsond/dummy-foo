@@ -17,7 +17,7 @@ if something goes wrong or Murphy does his job again.
 
 int main(void)
 {
-printf("\n
+printf("\n"
 "            .,,.                       \n"
 "             ,,                        \n"
 "             ,                         \n"
