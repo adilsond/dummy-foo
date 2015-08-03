@@ -17,6 +17,6 @@ if something goes wrong or Murphy does his job again.
 
 int main(void)
 {
-printf("\nKataFooo\n\n Isso é assim mesmo!\n\n");
+printf("\nKataFooo Da foo!!\n\nIsso é assim mesmo!\n\n");
 return 0;
 }
