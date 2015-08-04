@@ -1,3 +1,9 @@
+dummy-foo (0.014-1) trusty; urgency=medium
+
+  * Salsifoofoo
+
+ -- Adilson dos Santos Dantas <adilson@digirati.com.br>  Tue, 04 Aug 2015 10:59:11 -0300
+
 dummy-foo (0.013-1ubuntu1) trusty; urgency=medium
 
   * Katafoo da foo
