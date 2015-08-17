@@ -1,3 +1,9 @@
+dummy-foo (0.017-1) trusty; urgency=medium
+
+  * Dummy Foo
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Mon, 17 Aug 2015 15:09:01 -0300
+
 dummy-foo (0.016-1) trusty; urgency=medium
 
   * Tatoo
