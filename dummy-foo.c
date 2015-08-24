@@ -20,6 +20,6 @@ int main(void)
 printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n"
 " ║║│ │││││││└┬┘  ╠╣ │ ││ │\n"
 "═╩╝└─┘┴ ┴┴ ┴ ┴   ╚  └─┘└─┘\n\n"
-"Final edition\n\n");
+"Final edition (c)2015 foo\n\n");
 return 0;
 }
