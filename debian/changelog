@@ -1,3 +1,9 @@
+dummy-foo (0.020-1) trusty; urgency=medium
+
+  * The last one for this month?
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Mon, 31 Aug 2015 11:35:43 -0300
+
 dummy-foo (0.019-1) trusty; urgency=medium
 
   * Maybe this is the last one
