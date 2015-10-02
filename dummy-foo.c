@@ -20,7 +20,6 @@ int main(void)
 printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n"
 " ║║│ │││││││└┬┘  ╠╣ │ ││ │\n"
 "═╩╝└─┘┴ ┴┴ ┴ ┴   ╚  └─┘└─┘\n\n"
-"Try to remember the kind of September\n"
-"When life was slow and oh, so mellow...  (c)2015 foo\n\n");
+"Too foo  (c)2015 foo\n\n");
 return 0;
 }

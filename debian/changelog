@@ -1,3 +1,9 @@
+dummy-foo (0.022-1) trusty; urgency=medium
+
+  * Foo
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Fri, 02 Oct 2015 13:19:51 -0300
+
 dummy-foo (0.021-1) trusty; urgency=medium
 
   * September edition
