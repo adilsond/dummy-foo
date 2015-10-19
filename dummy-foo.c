@@ -20,6 +20,7 @@ int main(void)
 printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n"
 " ║║│ │││││││└┬┘  ╠╣ │ ││ │\n"
 "═╩╝└─┘┴ ┴┴ ┴ ┴   ╚  └─┘└─┘\n\n"
-"Too foo  (c)2015 foo\n\n");
+"Too foo  (c)2015 foo\n\n"
+"October end\n\n");
 return 0;
 }
