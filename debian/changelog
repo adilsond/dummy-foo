@@ -1,3 +1,9 @@
+dummy-foo (0.025-1) trusty; urgency=medium
+
+  * Trick or treat. Happy Halloween.
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Wed, 28 Oct 2015 11:22:43 -0200
+
 dummy-foo (0.024-1) trusty; urgency=medium
 
   * Trying to bring a DMC DeLorean. Today Marty McFly from 1985 will be here.
