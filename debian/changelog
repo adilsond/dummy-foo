@@ -1,3 +1,9 @@
+dummy-foo (0.026-1) trusty; urgency=medium
+
+  * November foo
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Wed, 11 Nov 2015 16:53:29 -0200
+
 dummy-foo (0.025-1) trusty; urgency=medium
 
   * Trick or treat. Happy Halloween.
