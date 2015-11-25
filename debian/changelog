@@ -1,3 +1,9 @@
+dummy-foo (0.027-1) trusty; urgency=medium
+
+  * Turkey foo
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Wed, 25 Nov 2015 16:09:07 -0200
+
 dummy-foo (0.026-1) trusty; urgency=medium
 
   * November foo

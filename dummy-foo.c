@@ -18,7 +18,8 @@ if something goes wrong or Murphy does his job again.
 int main(void)
 {
 printf("\n"
-"November foo"
+"Turkeys are going to Brazil this week because of the Thansksgiving day.\n"
+"After this day they are going back to the US because of Christmas in Brazil.\n"
 "\n\n");
 return 0;
 }
