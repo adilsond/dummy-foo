@@ -18,8 +18,14 @@ if something goes wrong or Murphy does his job again.
 int main(void)
 {
 printf("\n"
-"Turkeys are going to Brazil this week because of the Thansksgiving day.\n"
-"After this day they are going back to the US because of Christmas in Brazil.\n"
+"Oh, jingle bells, jingle bells\n"
+"Jingle all the way\n"
+"Oh, what fun it is to ride\n"
+"In a one horse open sleigh\n"
+"Jingle bells, jingle bells\n"
+"Jingle all the way\n"
+"Oh, what fun it is to ride\n"
+"In a one horse open sleigh\n"
 "\n\n");
 return 0;
 }

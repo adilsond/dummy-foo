@@ -1,3 +1,9 @@
+dummy-foo (0.028-1) trusty; urgency=medium
+
+  * Jingle Bells
+
+ -- Adilson dos Santos Dantas <adilsond@adilson>  Fri, 11 Dec 2015 13:25:22 -0200
+
 dummy-foo (0.027-1) trusty; urgency=medium
 
   * Turkey foo
