@@ -1,3 +1,9 @@
+dummy-foo (0.029-1) trusty; urgency=medium
+
+  * Jilgle Bells - Fix changelog
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Mon, 14 Dec 2015 14:32:42 -0200
+
 dummy-foo (0.028-1) trusty; urgency=medium
 
   * Jingle Bells
