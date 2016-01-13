@@ -17,16 +17,10 @@ if something goes wrong or Murphy does his job again.
 
 int main(void)
 {
-printf("\n"
-"Oh, jingle bells, jingle bells\n"
-"Jingle all the way\n"
-"Oh, what fun it is to ride\n"
-"In a one horse open sleigh\n"
-"Jingle bells, jingle bells\n"
-"Jingle all the way\n"
-"Oh, what fun it is to ride\n"
-"In a one horse open sleigh\n"
-"\n\n\n\n Ho! Ho! Ho!"
-"\n\n");
+printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n"
+" ║║│ │││││││└┬┘  ╠╣ │ ││ │\n"
+"═╩╝└─┘┴ ┴┴ ┴ ┴   ╚  └─┘└─┘\n\n"
+"Too foo  (c)2016 foo\n\n"
+"Is this the end?\n\n");
 return 0;
 }
