@@ -21,6 +21,6 @@ printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n
 " ║║│ │││││││└┬┘  ╠╣ │ ││ │\n"
 "═╩╝└─┘┴ ┴┴ ┴ ┴   ╚  └─┘└─┘\n\n"
 "Too foo  (c)2016 foo\n\n"
-"Is this the end?\n\n");
+"Is this the end? Or Canaval Next?\n\n");
 return 0;
 }
