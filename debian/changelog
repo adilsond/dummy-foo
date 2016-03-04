@@ -1,3 +1,9 @@
+dummy-foo (0.033-1) trusty; urgency=medium
+
+  * Small fix
+
+ -- Adilson dos Santos Dantas <adilsond@adilson.net.br>  Fri, 04 Mar 2016 11:38:55 -0300
+
 dummy-foo (0.032-1) trusty; urgency=medium
 
   * Easter bunny release
