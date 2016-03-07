@@ -25,6 +25,11 @@ printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n
 "    .---(') \n"
 "  o( )_-\\_ \n"
 "\n\n"
+"      \\\\ \n"
+"       \\\\_ \n"
+"    .---(') \n"
+"  o( )_-\\_ \n"
+"\n\n"
 "Too foo.  (c)2016 foo\n\n"
 "Is this the end? Or whats up doc?\n\n");
 return 0;
