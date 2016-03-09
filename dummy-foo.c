@@ -31,6 +31,6 @@ printf("╔╦╗┬ ┬┌┬┐┌┬┐┬ ┬  ╔═╗┌─┐┌─┐\n
 "  o( )_-\\_ \n"
 "\n\n"
 "Too foo.  (c)2016 foo\n\n"
-"Is this the end? Or whats up doc?\n\n");
+"Is this the end? Or whats up doc?\n\nFinal edition\n\n");
 return 0;
 }
