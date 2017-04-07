@@ -1,3 +1,10 @@
+dummy-foo (0.039-1) trusty; urgency=medium
+
+  * Add README.md
+  * Still Game Over
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Fri, 07 Apr 2017 14:04:02 -0300
+
 dummy-foo (0.038-1) trusty; urgency=medium
 
   * It worked.
