@@ -1,3 +1,10 @@
+dummy-foo (0.040-1) unstable; urgency=medium
+
+  * Still Game Over
+  * A little update after a long time
+
+ -- Adilson dos Santos Dantas <adilson@adilson.net.br>  Sat, 15 Jun 2019 12:33:49 -0300
+
 dummy-foo (0.039-1) trusty; urgency=medium
 
   * Add README.md
